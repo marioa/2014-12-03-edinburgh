@@ -5,6 +5,7 @@ Can motivate the use of a revision control system:
 
 * Development encompassing multiple systems.
 * Collaborative development.
+* Reproducible results - the ability to associate results with a particular version of the code, e.g. for a publication
 * Keeping provenance (if you have a student working/researching for you)
    * Good skill for them to learn.
    * Keeps provenance (if they do good comments)
