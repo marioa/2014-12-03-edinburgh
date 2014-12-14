@@ -124,7 +124,7 @@ Negatives:
 * Not that helpful for those who know Python already.
 * Random programming exercises? Why?
 * Trying to remember Python syntax.
-* Spent too much time in basis and didn't explore best practices.
+* Spent too much time in basics and didn't explore best practices.
 * Hard for people who do not speak Python, very easy otherwise.
 * My function was slow.
 * Need more info of what/why is a function - does it relate to paradigms of OO, pure, etc.
