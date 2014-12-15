@@ -51,7 +51,7 @@ Negatives:
 * I'm still a bit confused on branches.
 * Maybe a bit more could be covered? e.g. a little bit more time on branching and/or using tags e.g. process a file with current and my old revision.
 * A bit more on remotes, collaborations. A bit more on explaining history and commits.
-* Could mention pull requests (for open source when you have no write access  for the repo) and git stash. Could mention git GUI for commits structure(?)
+* Could mention pull requests (for open source when you have no write access for the repo) and git stash. Could mention git GUI for commits structure(?)
 * Not enough examples to play around.
 * Perhaps a look at a very used, real world example (lots of files and big log).
 * Speaker was not very clear on how why to choose git over svn on other version control.
@@ -87,7 +87,7 @@ Positives:
 * A good introduction to Python.
 * Nice challenges that makes points clear (e.g. use library functions).
 * Good libraries to compute many things.
-* Good structure (learning outcomes, summary, …).
+* Good structure (learning outcomes, summary, etc.).
 * Challenges (exercises).
 * Hands-on challenges were good.
 * Working on our programs was good practice.
@@ -113,7 +113,7 @@ Positives:
 * Interactive! Makes it easier / more fun to learn.
 * Great having all presentations / code snippets in repo.
 * Online log of terminal is really helpful.
-* Automatic logs of demonstrations very cool …
+* Automatic logs of demonstrations very cool
 * Website with publicly accessible txt file of terminal log.
 * Helpful hints / notes in Etherpad.
 * Enough & very helpful assistants.
@@ -124,7 +124,7 @@ Negatives:
 * Not that helpful for those who know Python already.
 * Random programming exercises? Why?
 * Trying to remember Python syntax.
-* Spent too much time in basis and didn't explore best practices.
+* Spent too much time in basics and didn't explore best practices.
 * Hard for people who do not speak Python, very easy otherwise.
 * My function was slow.
 * Need more info of what/why is a function - does it relate to paradigms of OO, pure, etc.
